@@ -7,7 +7,7 @@ It is designed for Robotics, Drone Navigation, AI Path Planning, and Educational
 ---
 
 ## 🎥 Demo Video
-📺 YouTube Link: *[Coming soon]*
+📺 YouTube Link: https://www.youtube.com/watch?v=M5RHAiur8BY
 
 ---
 
