@@ -1,4 +1,4 @@
-# 🚀 Visual Interactive Simulation of Dijkstra's Algorithm
+# Visual Interactive Simulation of Dijkstra's Algorithm
 ### Built using Python + OpenCV | Designed by Sourbh Kumar
 
 This project visually demonstrates how **Dijkstra’s Algorithm** explores a grid, expands nodes, handles obstacles, and reconstructs the shortest path.  
